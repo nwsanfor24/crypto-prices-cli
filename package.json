@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/nwsanfor24/crypto-prices-cli/issues"
   },
-  "homepage": "https://github.com/nwsanfor24/crypto-prices-cli#readme"
+  "homepage": "https://github.com/nwsanfor24/crypto-prices-cli#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "commander": "^7.2.0",
+    "configstore": "^6.0.0",
+    "inquirer": "^8.0.0"
+  }
 }
