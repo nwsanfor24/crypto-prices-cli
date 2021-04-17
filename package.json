@@ -1,0 +1,19 @@
+{
+  "name": "coindex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwsanfor24/crypto-prices-cli.git"
+  },
+  "author": "Nathan Sanford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nwsanfor24/crypto-prices-cli/issues"
+  },
+  "homepage": "https://github.com/nwsanfor24/crypto-prices-cli#readme"
+}
